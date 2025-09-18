@@ -1,7 +1,7 @@
 # Markovian entropy balance
 
 This repository simulates Langevin trajectories under periodic feedback control and computes several thermodynamical quantities: work, heat, entropy, housekeeping entropy, mutual information, transfer entropy and unavaiable information.
-Several parameters of the protocol (f, $\Delta$t<sub>m</sub>, $\Delta$<sub>x</sub>, V<sub>0</sub>) can be customized to explore different regimes. Comparations of different bounds for work based on information quantities are plotted.
+Several parameters of the protocol (f, $\Delta$ t<sub>m</sub>, $\Delta$<sub>x</sub>, V<sub>0</sub>) can be customized to explore different regimes. Comparations of different bounds for work based on information quantities are plotted.
 
 ## Distribution of files
 
